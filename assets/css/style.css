@@ -919,3 +919,5 @@ img {
 }
 .text-overflow-hidden{overflow: hidden; display:inline-block; margin-bottom:-4px;}
 .banner-text-row-3 .banner-text-row-3{ padding-left:40px; }
+.radius-box-img-1{ max-width:420px}
+.radius-box-img-2{ max-width:460px; width:100%;}
